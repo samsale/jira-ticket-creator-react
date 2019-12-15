@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# logo
+/src/config/logo.png
+
+# testingFiles
+src/config/projects.json
